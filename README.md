@@ -1,4 +1,4 @@
-![Clean Data](C:\Users\user\Pictures)
+![Clean Data](https://drive.google.com/file/d/1HsDOz5CzMalsjzGun8Azz7XUJaDOsWYG/view?usp=drive_link)
 
 # Excel-data-cleaning-project
  This Project is a step by step process on the data cleaning techniques used to turn dirty data into clean data
